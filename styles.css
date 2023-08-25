@@ -1,0 +1,12 @@
+h1{
+    color:maroon;
+    font-weight:bolder;
+    font-size:xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: initial;
+    text-shadow: -1px 1px 0 #000,
+                  1px 1px 0 #000,
+                  1px -1px 0 #000,
+                 -1px -1px 0 #000;
+}
+
